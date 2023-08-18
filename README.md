@@ -16,13 +16,13 @@ https://www.youtube.com/watch?v=TvMOD3AKkXo&ab_channel=Nitr0z
 
 ---
 
-### Requirments
+### 🎛️ Requirments
 - Windows 10/11
 - Node.js
 
-You can easily install Node.js from [oficcial site](https://nodejs.org/en) .
+You can easily install Node.js from [official site](https://nodejs.org/en) .
 
-### (Server 🎛️) Yarn Installation
+### 🎛️ Installation
 
 After installing Node.js, extract archive to directory.
 Open CMD on PowerShell in directory with index.js file and run command:
