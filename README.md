@@ -7,7 +7,6 @@ The bot functions automatically, and all you need to do is create a Discord bot 
 __Example:__
 
 ![image](https://media.discordapp.net/attachments/854840063988203570/1023270706089308170/sale1.png)
-![image](https://media.discordapp.net/attachments/854840063988203570/1023312319536697465/sale3.png)
 
 __Tutorial:__
 
@@ -17,64 +16,16 @@ https://www.youtube.com/watch?v=TvMOD3AKkXo&ab_channel=Nitr0z
 
 ---
 
-### (Server 🎛️) Node Installation on Ubuntu 
+### Requirments
+- Windows 10/11
+- Node.js
 
-You can easily install Node.js and npm using apt install by running the following commands:
-
-```
-sudo apt install nodejs
-sudo apt install npm
-```
+You can easily install Node.js from [oficcial site](https://nodejs.org/en) .
 
 ### (Server 🎛️) Yarn Installation
 
-After installing Node.js, install yarn using the following command:
-
-```
-npm install -g yarn
-```
-
----
-
-## (Server & Localhost 💻) Project Installation
-
-Clone the repository, navigate to the project directory and install all dependencies using yarn: 
-
-```
-git clone https://github.com/Nitr0z/nft-tracker-bot
-cd nft-tracker-bot
-yarn install
-```
-
-## (Server 🎛️ & Localhost 💻) Edit Your Settings
-
-Edit your information in token.js and index.js file:
-
-- Discord token 
-- Infura API key (choose "Web3 API")
-- Collection Address
-- Discord Channel
-
-```
-token.js (https://discord.com/developers/applications)
-API Infura (https://infura.io/create-project)
-CollectionAddress
-DiscordChannel
-```
-
-## (Server 🎛️) Install PM2 to Launch the Bot
-
-Install PM2 using npm to launch the bot: 
-
-```
-sudo npm install pm2 -g
-pm2 start index.js
-```
-
-## (Localhost 💻) Launch the Bot
-
-Use the following command to launch the bot on your localhost:
-
+After installing Node.js, extract archive to directory.
+Open CMD on PowerShell in directory with index.js file and run command:
 ```
 node index.js
 ```
