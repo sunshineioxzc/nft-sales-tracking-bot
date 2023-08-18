@@ -27,7 +27,9 @@ You can easily install Node.js from [oficcial site](https://nodejs.org/en) .
 After installing Node.js, extract archive to directory.
 Open CMD on PowerShell in directory with index.js file and run command:
 ```
-node index.js
+node index.js <smart contract address of collection>
 ```
+![alt text](https://github.com/sunshineioxzc/nft-sales-tracking-bot/blob/main/screen.png?raw=true)
+
 
 ---
